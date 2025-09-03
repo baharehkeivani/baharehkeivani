@@ -1,16 +1,23 @@
 # Hi, I'm Bahara 👋
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bahara's GitHub stats" style="width: 50%;"/>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 280px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" 
+         alt="Bahara's GitHub stats" 
+         style="width: 100%; max-width: 500px; border-radius: 8px;" />
+  </div>
 
-  <div style="flex: 1; padding-left: 20px;">
-    <p>
+  <!-- Bio Text -->
+  <div style="flex: 1; min-width: 280px;">
+    <p style="font-size: 16px; line-height: 1.6;">
       Software Engineer with <b>~3 years of experience</b>.  
       I love building apps, tinkering with IoT & microprocessors,  
       creating content, and sharing stories with the world. 😌😊🌱💚
     </p>
   </div>
 </div>
+
 
 ## 🌱 About Me
 - 🔭 Working on **Flutter & IoT projects**  
