@@ -12,11 +12,7 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 
 | Dart | Flutter | Python | Java | IoT / Microprocessors |
 |------|---------|--------|------|----------------------|
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/><br>Dart</p>
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter</p> 
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</p> 
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</p> 
-| <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Arduino_Logo.svg" width="50"/><br>IoT</p> |
+| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/><br>Dart</p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter</p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</p>  | <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Arduino_Logo.svg" width="50"/><br>IoT</p> |
 
 ## 📱 Connect with Me
 
