@@ -1,8 +1,7 @@
 # Hi, I'm Bahara 👋
 
-| ![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical) | 
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Software Engineer with **~3 years of experience**. I love building apps, tinkering with IoT & microprocessors, creating content, and sharing stories with the world. 😌😊🌱💚 |
+| ![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical) | 
 
 
 ## 🌱 About Me
