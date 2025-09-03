@@ -2,16 +2,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bahara's GitHub stats" />
-
+      <img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bahara's GitHub stats" />
     </td>
     <td width="50%" valign="top">
-
-Software Engineer with <b>~3 years of experience</b>.  
-I love building apps, tinkering with IoT & microprocessors,  
-creating content, and sharing stories with the world. 😌😊🌱💚
-
+      Software Engineer with <b>~3 years of experience</b>.  
+      I love building apps, tinkering with IoT & microprocessors,  
+      creating content, and sharing stories with the world. 😌😊🌱💚
     </td>
   </tr>
 </table>
