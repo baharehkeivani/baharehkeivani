@@ -1,8 +1,9 @@
 # Hi, I'm Bahara 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bahara's GitHub stats" style="width: 50%;"/>
-
+  <div style="flex: 1; padding-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Bahara's GitHub stats" style="width: 50%;"/>
+  </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
       Software Engineer with <b>~3 years of experience</b>.  
