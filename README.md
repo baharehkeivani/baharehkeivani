@@ -1,6 +1,9 @@
 # Hi, I'm Bahara 👋
 
-Software Engineer with **~3 years of experience**. I love building apps, tinkering with IoT & microprocessors, creating content, and sharing stories with the world.  😌😊🌱💚
+| ![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical) | 
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Software Engineer with **~3 years of experience**. I love building apps, tinkering with IoT & microprocessors, creating content, and sharing stories with the world. 😌😊🌱💚 |
+
 
 ## 🌱 About Me
 - 🔭 Working on **Flutter & IoT projects**  
@@ -21,7 +24,3 @@ Software Engineer with **~3 years of experience**. I love building apps, tinkeri
 | <p align="center"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" width="50"/><br>YouTube</p> | [https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA](https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA) |
 | <p align="center"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"/><br>Instagram</p> | [https://www.instagram.com/bahara.code.craft/profilecard/](https://www.instagram.com/bahara.code.craft/profilecard/) |
 | <p align="center"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50"/><br>LinkedIn</p> | [https://www.linkedin.com/in/baharehkeivani/](https://www.linkedin.com/in/baharehkeivani/) |
-
-
-## 📈 GitHub Stats
-![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical)
