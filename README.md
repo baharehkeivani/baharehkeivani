@@ -1,11 +1,11 @@
 # Hi, I'm Bahara 👋
 
-Flutter developer with **~3 years of experience**. I love building apps, tinkering with IoT & microprocessors, creating content, and sharing stories with the world.  
+Software Engineer with **~3 years of experience**. I love building apps, tinkering with IoT & microprocessors, creating content, and sharing stories with the world.  😌😊🌱💚
 
 ## 🌱 About Me
 - 🔭 Working on **Flutter & IoT projects**  
 - 🌱 Love learning new tech and sharing my journey on **YouTube & Instagram**  
-- 💬 Ask me about **Flutter, Dart, IoT, microprocessors, content creation**  
+- 💬 Ask me about **Flutter, Dart, IoT, microprocessors, content creation** — I may not know everything, but we’ll figure it out together 😉
 - ⚡ Fun fact: I enjoy combining coding with creative storytelling  
 
 ## 💻 Tech Stack
@@ -24,4 +24,4 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 
 
 ## 📈 GitHub Stats
-![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&theme=radical)
+![Bahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=baharehkeivani&show_icons=true&hide_border=true&count_private=true&theme=radical)
