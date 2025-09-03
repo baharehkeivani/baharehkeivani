@@ -10,14 +10,9 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 
 ## 💻 Tech Stack
 
-| Technology | Link / Info |
-|------------|-------------|
-| <p align="center"><img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/><br>Dart</p> | [https://dart.dev](https://dart.dev) |
-| <p align="center"><img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter</p> | [https://flutter.dev](https://flutter.dev) |
-| <p align="center"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</p> | [https://www.python.org](https://www.python.org) |
-| <p align="center"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</p> | [https://www.java.com](https://www.java.com) |
-| <p align="center"><img alt="IoT" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Arduino_Logo.svg" width="50"/><br>IoT / Microprocessors</p> | [https://www.arduino.cc/](https://www.arduino.cc/) |
-
+| Dart | Flutter | Python | Java | IoT / Microprocessors |
+|------|---------|--------|------|----------------------|
+| <p align="center"><img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/><br>Dart</p> | <p align="center"><img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter</p> | <p align="center"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</p> | <p align="center"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</p> | <p align="center"><img alt="IoT" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Arduino_Logo.svg" width="50"/><br>IoT</p> |
 
 ## 📱 Connect with Me
 
