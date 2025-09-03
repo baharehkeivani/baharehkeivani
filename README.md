@@ -10,7 +10,7 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 
 ## 💻 Tech Stack
 
-| Dart | Flutter | Python | Java | IoT / Microprocessors |
+| Dart | Flutter | Python | Java |
 |------|---------|--------|------|----------------------|
 | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/></p> |
 
