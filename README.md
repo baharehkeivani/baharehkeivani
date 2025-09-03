@@ -1,5 +1,5 @@
 # Hi, I'm Bahara 👋
-<table hide_border=true>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
      <td width="50%" valign="top">
       Software Engineer with <b>~3 years of experience</b>.  
