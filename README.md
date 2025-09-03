@@ -18,7 +18,7 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 
 | Platform | Link |
 |----------|------|
-| <p align="center"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50"/><br>YouTube</p> | [https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA](https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA) |
+| <p align="center"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png?20240107144800" width="50"/><br>YouTube</p> | [https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA](https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA) |
 | <p align="center"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"/><br>Instagram</p> | [https://www.instagram.com/bahara.code.craft/profilecard/](https://www.instagram.com/bahara.code.craft/profilecard/) |
 | <p align="center"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50"/><br>LinkedIn</p> | [https://www.linkedin.com/in/baharehkeivani/](https://www.linkedin.com/in/baharehkeivani/) |
 
