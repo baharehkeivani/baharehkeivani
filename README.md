@@ -9,35 +9,23 @@ Flutter developer with **~3 years of experience**. I love building apps, tinkeri
 - ⚡ Fun fact: I enjoy combining coding with creative storytelling  
 
 ## 💻 Tech Stack
-<p align="left">
-  <a href="#">
-    <img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60"/><br>Dart
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#">
-    <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60"/><br>Flutter
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#">
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/><br>Python
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#">
-    <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/><br>Java
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#">
-    <img alt="IoT" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arduino.svg" width="60"/><br>IoT
-  </a>
-</p>
+
+| Technology | Link / Info |
+|------------|-------------|
+| <p align="center"><img alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50"/><br>Dart</p> | [https://dart.dev](https://dart.dev) |
+| <p align="center"><img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50"/><br>Flutter</p> | [https://flutter.dev](https://flutter.dev) |
+| <p align="center"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</p> | [https://www.python.org](https://www.python.org) |
+| <p align="center"><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</p> | [https://www.java.com](https://www.java.com) |
+| <p align="center"><img alt="IoT" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Arduino_Logo.svg" width="50"/><br>IoT / Microprocessors</p> | [https://www.arduino.cc/](https://www.arduino.cc/) |
+
 
 ## 📱 Connect with Me
 
 | Platform | Link |
 |----------|------|
-| <p align="center"><img alt="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/youtube.svg" width="50"/><br>YouTube</p> | [https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA](https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA) |
-| <p align="center"><img alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" width="50"/><br>Instagram</p> | [https://www.instagram.com/bahara.code.craft/profilecard/](https://www.instagram.com/bahara.code.craft/profilecard/) |
-| <p align="center"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="50"/><br>LinkedIn</p> | [https://www.linkedin.com/in/baharehkeivani/](https://www.linkedin.com/in/baharehkeivani/) |
+| <p align="center"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50"/><br>YouTube</p> | [https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA](https://www.youtube.com/channel/UC5-TDS43ukQKaT0WLUonkZA) |
+| <p align="center"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"/><br>Instagram</p> | [https://www.instagram.com/bahara.code.craft/profilecard/](https://www.instagram.com/bahara.code.craft/profilecard/) |
+| <p align="center"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50"/><br>LinkedIn</p> | [https://www.linkedin.com/in/baharehkeivani/](https://www.linkedin.com/in/baharehkeivani/) |
 
 
 ## 📈 GitHub Stats
